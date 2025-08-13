@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @J3remyC
 - 👀 I’m interested in Frontend web development!
-- 🌱 I’m currently learning barba.js and gsap
+- 🌱 I’m currently learning the MERN stack
 - 📫 How to reach me jeremycervantes1304@gmail.com
 - 😄 Pronouns: He/he
 - ⚡ Fun fact: I'm a gym rat
